@@ -11,15 +11,15 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🎓 I'm a passionate systems engineer with standout skills in crafting and optimizing technological solutions. My primary focus has been on designing and developing systems that enhance efficiency and user experience.
+- 🎓 Passionate systems engineer with a knack for crafting and optimizing technological solutions. Specializing in designing and developing systems to enhance efficiency and user experience.
 
-- 🌱 💡 While my expertise lies in systems engineering, I'm open to exciting challenges and the possibility of working on new projects. Problem-solving and innovation are part of my professional DNA. 💻
+- 🌱 💡 Open to exciting challenges and new projects, my expertise lies in systems engineering. Problem-solving and innovation are ingrained in my professional DNA. 💻
 
-- 🤝 I’m available for freelancing.
+- 🤝 Available for freelancing.
 
-- 🌱  Feel free to reach out to me at marcromerogar4@gmail.com. I look forward to connecting and exploring new opportunities in the tech world! 🌐
+- 🌱 Feel free to reach out at marcromerogar4@gmail.com. Eager to connect and explore new opportunities in the tech world! 🌐
 
-- 💬 I'm thrilled to dive into the world of technology and work collaboratively in a team; after all, every idea is a piece of the coding puzzle! 🚀💻
+- 💬 Thrilled to dive into the tech world, collaborating in a team where every idea is a piece of the coding puzzle! 🚀💻
 
 
 <div align="center">
