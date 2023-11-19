@@ -1,5 +1,8 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<!-- GIF HEADER -->
+
 <h1 align="center">Hi , I'm Marcos Romero (Marck) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
@@ -16,10 +19,7 @@
 
 - 🌱  Feel free to reach out to me at marcromerogar4@gmail.com. I look forward to connecting and exploring new opportunities in the tech world! 🌐
 
-- 💬 Ask me about **Reactjs & React-Native**
-
-
-
+- 💬 I'm thrilled to dive into the world of technology and work collaboratively in a team; after all, every idea is a piece of the coding puzzle! 🚀💻
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -33,3 +33,19 @@
     <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,figma,github,html,idea,java,js,md,tailwind,vscode&perline=14" />
   </a>
 </p>
+
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marckromgar/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marck_romerro/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brantlauro)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcromerogar4@gmail.com)
+  
+</div>
+
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=M4rckR&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4rckR&theme=react&layout=compact" />
+</p>
+
